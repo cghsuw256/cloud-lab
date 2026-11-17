@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 def hello():
 
-    return 'Hello, Cloud!'
+    return 'Hi,Cloud!!'
 
 
 
